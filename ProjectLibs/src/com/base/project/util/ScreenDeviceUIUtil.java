@@ -42,5 +42,4 @@ public class ScreenDeviceUIUtil {
             imm.hideSoftInputFromWindow(v.getWindowToken(), 0);
         }
     }
-	
 }
