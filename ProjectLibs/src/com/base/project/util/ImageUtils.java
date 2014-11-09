@@ -4,6 +4,9 @@ import android.graphics.Bitmap;
 import android.graphics.Matrix;
 
 public class ImageUtils {
+	// other libs
+	// +  http://developer.sonymobile.com/2011/06/27/how-to-scale-images-for-your-android-application/
+	// +  https://github.com/svenkapudija/Android-ImageResizer
 	public static Bitmap scaleBitmap(Bitmap pOrginalBitmap, float newWidth,
 			float newHeight) {
 		Bitmap ret = null;
