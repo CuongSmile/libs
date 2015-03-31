@@ -66,7 +66,7 @@ public interface StickyGridHeadersBaseAdapter extends ListAdapter {
     View getHeaderView(int position, View convertView, ViewGroup parent);
     /**
      * Get the number header above position
-     * @author PRDCV-CuongPG
+     * @author CuongPG
      * @param pos : the item position on gridview
      * @return  Get the number header above position 
      */
